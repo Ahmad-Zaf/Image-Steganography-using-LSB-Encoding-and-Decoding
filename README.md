@@ -33,4 +33,4 @@ Extracts the LSBs sequentially to reconstruct the hidden message.
 
 Screenshot of the Output---
 
-[Output}(https://github.com/Ahmad-Zaf/Image-Steganography-using-LSB-Encoding-and-Decoding/blob/main/Output/Output.png?raw=true)
+[Output](https://github.com/Ahmad-Zaf/Image-Steganography-using-LSB-Encoding-and-Decoding/blob/main/Output/Output.png?raw=true)
